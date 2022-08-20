@@ -1,0 +1,37 @@
+[
+    {
+      "_id": "625b13e6ec39b6d6e8184a6a",
+      "picture": "https://cdn.pixabay.com/photo/2021/11/04/06/27/artificial-intelligence-6767502_1280.jpg",
+      "price": "$99",
+      "name": "Artificial Intelligence",
+      "description": "Artificial intelligence (AI) refers to the simulation of human intelligence in machines that are programmed to think like humans and mimic their actions."
+    },
+    {
+      "_id": "625b13e6e5cca1739e19d8d8",
+      "picture": "https://cdn.pixabay.com/photo/2020/06/10/09/31/mockup-5281992_1280.jpg",
+      "price": "$59",
+      "name": "VUE.JS",
+      "description": "Vue.js is an open-source model, view,  viewmodel front end JavaScript framework for building user interfaces and single-page applications."
+    },
+    {
+      "_id": "625b13e6204981e1eb2b0fb7",
+      "picture": "https://cdn.pixabay.com/photo/2016/11/19/14/00/code-1839406_1280.jpg",
+      "price": "$89",
+      "name": "PHP",
+      "description": "PHP is a server scripting language, and a powerful tool for making dynamic and interactive Web pages.PHP is a widely-used, free, and efficient alternative to competitors such as Microsoft's ASP."
+    },
+    {
+      "_id": "625b13e65c9035a082e7df50",
+      "picture": "https://cdn.pixabay.com/photo/2014/02/13/07/28/security-265130_1280.jpg",
+      "price": "$109",
+      "name": "Ethical Hacking",
+      "description": "Ethical hacking involves an authorized attempt to gain unauthorized access to a computer system, application, or data."
+    },
+    {
+      "_id": "625b13e63d5d5270c410c978",
+      "picture": "https://cdn.pixabay.com/photo/2019/06/17/19/48/source-4280758_1280.jpg",
+      "price": "$79",
+      "name": "Python Programming",
+      "description": "Python is a powerful general-purpose programming language. It is used in web development, data science, creating software prototypes, and so on."
+    }
+  ]
